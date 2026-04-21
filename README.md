@@ -57,7 +57,8 @@
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white)
 ![OPNsense](https://img.shields.io/badge/OPNsense-1a1a2e?style=flat)
 ![MinIO](https://img.shields.io/badge/MinIO-C72C48?style=flat&logo=minio&logoColor=white)
-
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff)](#)
+[![MLflow](https://img.shields.io/badge/MLflow-F4AA41?logo=MLflow&logoColor=black)](#)
 ---
 
 
